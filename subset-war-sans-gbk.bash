@@ -29,5 +29,6 @@ do
 		--recalc-average-width \
 		--recalc-max-context \
 		--timing \
-	&& otfccdump subset/"$file" | otfccbuild -O2 --ignore-glyph-order --keep-average-char-width --keep-unicode-ranges --keep-modified-time --subroutinize -o subset/"$file"
+	&& otfccdump subset/"$file" | otfccbuild -O2 --ignore-glyph-order --keep-average-char-width --keep-unicode-ranges --keep-modified-time --subroutinize -o subset/"$file" &
 done
+wait
