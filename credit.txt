@@ -1,0 +1,23 @@
+Adobe:
+	Adobe Latin Character Sets
+		https://adobe-type-tools.github.io/adobe-latin-charsets/
+	Adobe Cyrillic Character Sets
+		https://adobe-type-tools.github.io/adobe-cyrillic-charsets/
+	Adobe Greek Character Sets
+		https://adobe-type-tools.github.io/adobe-greek-charsets/
+	CMap Resources
+		https://github.com/adobe-type-tools/cmap-resources/
+	China’s 通用规范汉字表 (Tōngyòng Guīfàn Hànzìbiǎo)
+		https://blogs.adobe.com/CCJKType/2014/03/china-8105.html
+
+mrhso:
+	GBK-Ishisashi Encoding Table
+		https://github.com/mrhso/IshisashiEncoding/tree/master/%E7%BC%96%E7%A0%81/GBK/GBK-Ishisashi
+	通用规范汉字表
+		https://github.com/mrhso/IshisashiEncoding/tree/master/%E5%AD%97%E7%AC%A6%E6%9D%82%E8%AE%B0/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
+
+Wikimedia:
+	常用漢字の一覧
+		https://ja.wiktionary.org/wiki/Wiktionary:%E5%B8%B8%E7%94%A8%E6%BC%A2%E5%AD%97%E3%81%AE%E4%B8%80%E8%A6%A7
+	人名用漢字
+		https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%90%8D%E7%94%A8%E6%BC%A2%E5%AD%97
