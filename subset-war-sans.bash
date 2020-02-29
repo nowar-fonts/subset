@@ -12,7 +12,7 @@ do
 		--output-file=subset/"$file" \
 		--notdef-glyph --notdef-outline \
 		--no-recommended-glyphs \
-		--layout-features=ccmp,kern,liga,lnum,mark,mkmk,onum,pnum,tnum \
+		--layout-features=ccmp,kern,liga,lnum,mark,mkmk,onum,palt,pnum,smcp,tnum \
 		--layout-scripts='*' \
 		--no-hinting \
 		--desubroutinize \
