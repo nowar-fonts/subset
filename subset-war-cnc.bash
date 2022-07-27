@@ -1,4 +1,4 @@
-# /bin/bash
+#!/bin/bash
 
 mkdir -p subset/
 
@@ -30,7 +30,6 @@ do
 		--prune-unicode-ranges \
 		--recalc-average-width \
 		--recalc-max-context \
-		--timing \
-	&& otfccdump subset/"$file" | otfccbuild -O2 --ignore-glyph-order --keep-average-char-width --keep-unicode-ranges --keep-modified-time --subroutinize -o subset/"$file" &
+		--timing &
 done
 wait
