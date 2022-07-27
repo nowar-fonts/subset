@@ -10,6 +10,7 @@ do
 		--unicodes-file=charset/adobe-gb1-2.uni --unicodes-file=charset/adobe-cns1-0.uni --unicodes-file=charset/adobe-japan1-2.uni \
 		--unicodes-file=charset/adobe-kr-1.uni --unicodes-file=charset/adobe-korea1-0.uni \
 		--unicodes-file=charset/cn-general-8105.uni --text-file=charset/jp-freq-2136.txt --text-file=charset/jp-name-863.txt \
+		--unicodes=02b9,02ba \
 		--output-file=subset/"$file" \
 		--notdef-glyph --notdef-outline \
 		--no-recommended-glyphs \
